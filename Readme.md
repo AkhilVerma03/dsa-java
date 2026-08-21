@@ -6,7 +6,7 @@ This repository contains my optimized, pattern-based solutions to Data Structure
 
 | Topic | Problems Solved |
 | :--- | :--- |
-| Arrays  | 24 |
-| Searching | 14 |
+| Arrays  | 28 |
+| Searching | 18 |
 
 *Goal: ~400 high-quality problems with optimal Time and Space complexities.*
