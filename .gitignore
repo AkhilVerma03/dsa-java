@@ -1,0 +1,8 @@
+*.class
+.idea/
+.vscode/
+out/
+desktop.ini
+*.ini
+Thumbs.db
+.DS_Store
