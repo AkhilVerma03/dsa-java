@@ -1,5 +1,5 @@
 
-public class splitArrayLargestSum {
+public class SplitArrayLargestSum {
 
     //Time Complexity: O(N * log S) where N is array length and S is the sum of all elements
     //Space Complexity: O(1)

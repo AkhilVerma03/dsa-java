@@ -1,4 +1,4 @@
-public class infinteArraySearch {
+public class InfinteArraySearch {
     public int binarySearch(int low , int high , int target , int arr[]){
         while(low<=high){
             int mid = low + (high-low)/2;

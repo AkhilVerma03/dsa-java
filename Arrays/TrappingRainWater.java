@@ -1,4 +1,4 @@
-public class traprainwater {
+public class TrappingRainWater {
     // O(n) - space complexity
 
     public int trap(int[] height) {

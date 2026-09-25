@@ -1,4 +1,4 @@
-public class searchRotatedSortedArray {
+public class SearchRotatedSortedArray {
     
     public int binarySearch(int low, int high, int target, int arr[]) {
         while(low <= high) {

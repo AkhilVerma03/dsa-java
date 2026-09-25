@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class containsDuplicate {
+public class ContainsDuplicate {
     
     // OPTIMAL SOLUTION: HashSet Lookup
     // Time Complexity: O(n) - Lightning fast CPU time

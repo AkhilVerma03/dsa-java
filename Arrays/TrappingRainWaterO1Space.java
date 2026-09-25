@@ -1,4 +1,4 @@
-public class traprainlessspace {
+public class TrappingRainWaterO1Space{
 
     // O(1) space complexity
     public int trap_2(int[] height) {

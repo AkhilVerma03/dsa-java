@@ -1,4 +1,4 @@
-public class index_first_occurence {
+public class IndexFirstOccurence{
     //MY VERSION
     public int firstOccur(int[] arr, int key) {
         int low = 0;

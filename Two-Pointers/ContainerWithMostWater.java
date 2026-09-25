@@ -1,4 +1,4 @@
-public class max_water_capacity {
+public class ContainerWithMostWater{
     public int maxArea(int[] height) {
         int max_capacity = 0;
         int left = 0, right = height.length - 1;

@@ -1,4 +1,4 @@
-public class twoSum2 {
+public class TwoSum2 {
     // Optimal Approach: Two Pointers (1-based index)
     // TC: O(n) | SC: O(1)
     public int[] twoSum(int[] numbers, int target) {

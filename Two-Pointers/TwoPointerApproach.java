@@ -1,4 +1,4 @@
-public class twoPointerApproach {
+public class TwoPointerApproach {
     // Optimal Approach: Two Pointers
     // TC: O(n) | SC: O(1)
     public boolean pairExists(int arr[], int target) {

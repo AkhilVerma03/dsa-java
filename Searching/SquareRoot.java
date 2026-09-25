@@ -1,4 +1,4 @@
-public class squareRoot {
+public class SquareRoot {
     public int mySqrt(int x)
     {
         if(x<2) return x;

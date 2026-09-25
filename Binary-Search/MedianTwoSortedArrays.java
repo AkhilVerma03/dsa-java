@@ -1,4 +1,4 @@
-public class medianTwoSortedArrays {
+public class MedianTwoSortedArrays {
 
     // OPTIMAL SOLUTION: Binary Search on Cut Index
     // Time Complexity: O(log(min(n1,n2)))

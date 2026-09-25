@@ -1,4 +1,4 @@
-public class tripletSortedArray {
+public class TripletSortedArray {
     // Optimal Approach: Fix one element, Two Pointers for the rest
     // TC: O(n^2) | SC: O(1)
     public boolean tripletSorted(int arr[], int target) {

@@ -1,4 +1,4 @@
-public class subarraywithgivensum {
+public class SubarrayWithGivenSum {
     public boolean method(int[] arr, int sum) {
     int current_sum = arr[0];
     int j = 0;

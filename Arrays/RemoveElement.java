@@ -1,4 +1,4 @@
-public class removeelement {
+public class RemoveElement {
      public int removeElement(int[] arr, int val) {
         int k = 0;
 

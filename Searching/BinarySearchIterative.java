@@ -1,5 +1,5 @@
 
-public class binary_search_iterative{
+public class BinarySearchIterative{
    public int binary_iter(int arr[], int key) {
     int low = 0;
     int high = arr.length - 1;
