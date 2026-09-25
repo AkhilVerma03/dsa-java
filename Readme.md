@@ -11,7 +11,7 @@ LeetCode and GFG problems solved in Java, organized by topic.
 | Searching | 9 |
 | Binary-Search | 3 |
 | Sorting | 16 |
-| Two-Pointers | 5 |
-| Sliding-Window | 1 |
+| Two-Pointers | 8 |
+| Sliding-Window | 2 |
 | Hashing | 3 |
 | Matrix | 4 |
